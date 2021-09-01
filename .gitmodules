@@ -1,0 +1,3 @@
+[submodule "exercicios"]
+	path = exercicios
+	url = https://github.com/yvanmatos/exercicios

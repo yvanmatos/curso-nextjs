@@ -2,3 +2,6 @@
 	path = exercicios
 	url = https://github.com/yvanmatos/exercicios
 	branch = main
+[submodule "tabuleiro"]
+	path = tabuleiro
+	url = https://github.com/yvanmatos/tabuleiro
